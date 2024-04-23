@@ -1,3 +1,6 @@
 file creato da notepad++
 riga aggiunta da web
-mia modifica in locale
+<<<<<<< HEAD
+=======
+creo un conflitto
+>>>>>>> c28fa56a37e13e50bc03aad1d3bb526d2f15c17c
